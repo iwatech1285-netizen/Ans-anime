@@ -1,0 +1,6 @@
+{
+  "name": "ANS Anime - Original Anime Streaming Platform",
+  "description": "Stream high-definition original anime series, episodes, and movies powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
